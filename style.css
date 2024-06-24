@@ -1,0 +1,15 @@
+html, body{
+          height: 100%;
+}
+
+.form-container{
+          max-width: 380px;
+          padding: 1rem;
+}
+
+.btnLogin{
+          margin-top: 25px;
+}
+.seja{
+          padding-bottom: 50px;
+}
